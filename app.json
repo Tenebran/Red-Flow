@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "RED Flow",
-    "slug": "red-flow",
+    "name": "red-flow2",
+    "slug": "red-flow2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
-    "userInterfaceStyle": "dark",
+    "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
@@ -15,8 +15,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.anonymous.redflow"
+      }
     },
     "web": {
       "bundler": "metro",
